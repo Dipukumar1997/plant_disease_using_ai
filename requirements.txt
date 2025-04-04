@@ -4,3 +4,4 @@ numpy
 tensorflow
 wikipedia
 google-generativeai
+gdown
